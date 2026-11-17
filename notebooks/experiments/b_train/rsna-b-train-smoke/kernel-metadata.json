@@ -1,0 +1,22 @@
+{
+  "id": "bloctuat/rsna-b-train-smoke",
+  "title": "rsna-b-train-smoke",
+  "code_file": "rsna-b-train-smoke.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "bloctuat/rsna-b-train-kit"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": [
+    "bloctuat/rsna-b-px256-s00"
+  ],
+  "model_sources": []
+}

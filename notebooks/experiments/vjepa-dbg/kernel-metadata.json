@@ -1,0 +1,18 @@
+{
+ "id": "nguynxunphc662/rsna-vjepa-dbg",
+ "title": "rsna-vjepa-dbg",
+ "code_file": "rsna-vjepa-dbg.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": false,
+ "enable_internet": false,
+ "dataset_sources": [
+  "nurikw3/rsna-knee-vjepa21-checkpoints"
+ ],
+ "competition_sources": [
+  "rsna-knee-abnormality-detection"
+ ],
+ "kernel_sources": [],
+ "model_sources": []
+}

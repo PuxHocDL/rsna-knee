@@ -1,0 +1,32 @@
+{
+  "id": "bloctuat/rsna-b-train-full-b1v4-f1",
+  "title": "rsna-b-train-full-b1v4-f1",
+  "code_file": "rsna-b-train-full-b1v4-f1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "bloctuat/rsna-b-train-kit",
+    "bloctuat/rsna-tk-labels-v4"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": [
+    "bloctuat/rsna-b-px256-s00",
+    "bloctuat/rsna-b-px256-s01",
+    "bloctuat/rsna-b-px256-s02",
+    "bloctuat/rsna-b-px256-s03",
+    "bloctuat/rsna-b-px256-s04",
+    "bloctuat/rsna-b-px256-s05",
+    "bloctuat/rsna-b-px256-s06",
+    "bloctuat/rsna-b-px256-s07",
+    "bloctuat/rsna-b-px256-s08",
+    "bloctuat/rsna-b-px256-s09"
+  ],
+  "model_sources": []
+}

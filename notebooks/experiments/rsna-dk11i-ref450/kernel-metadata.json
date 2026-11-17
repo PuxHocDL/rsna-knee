@@ -1,0 +1,21 @@
+{
+  "id": "hinnguync/rsna-dk11i-ref450",
+  "title": "rsna-dk11i-ref450",
+  "code_file": "rsna-dk11i-ref450.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "dkim54/rsna-knee-models-v11i",
+    "hinnguync/rsna-b-kit-v5"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}

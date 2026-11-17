@@ -1,0 +1,22 @@
+{
+  "id": "kietvo2207/rsna-b2f-solo",
+  "title": "rsna-b2f-solo",
+  "code_file": "rsna-b2f-solo.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "heliosli/rsna-knee-r6-frozen-fe055406-w1",
+    "heliosli/rsna-orthofoundation-fold0-epoch7-20261004",
+    "kietvo2207/rsna-b-models"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dunguit/rsna-b-train-full-cnxv5-f2",
+  "title": "rsna-b-train-full-cnxv5-f2",
+  "code_file": "rsna-b-train-full-cnxv5-f2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "dunguit/rsna-b-kit-v5"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": [
+    "dunguit/rsna-b-px256-s00",
+    "dunguit/rsna-b-px256-s01",
+    "dunguit/rsna-b-px256-s02",
+    "dunguit/rsna-b-px256-s03",
+    "dunguit/rsna-b-px256-s04",
+    "dunguit/rsna-b-px256-s05",
+    "dunguit/rsna-b-px256-s06",
+    "dunguit/rsna-b-px256-s07",
+    "dunguit/rsna-b-px256-s08",
+    "dunguit/rsna-b-px256-s09",
+    "dunguit/rsna-b-px256-s15",
+    "dunguit/rsna-b-px256-s16",
+    "dunguit/rsna-b-px256-s17",
+    "dunguit/rsna-b-px256-s18",
+    "dunguit/rsna-b-px256-s19"
+  ],
+  "model_sources": []
+}

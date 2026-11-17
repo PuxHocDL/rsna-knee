@@ -1,0 +1,23 @@
+{
+  "id": "nguynxunphc662/rsna-b4dk-frac7-hpda",
+  "title": "rsna-b4dk-frac7-hpda",
+  "code_file": "rsna-b4dk-frac7-hpda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "heliosli/rsna-knee-r6-frozen-fe055406-w1",
+    "heliosli/rsna-orthofoundation-fold0-epoch7-20261004",
+    "nguynxunphc662/rsna-b4-models",
+    "dkim54/rsna-knee-models-v11i"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}

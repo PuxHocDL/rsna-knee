@@ -1,0 +1,20 @@
+{
+  "id": "kietvo2207/rsna-o5-own-all",
+  "title": "rsna-o5-own-all",
+  "code_file": "rsna-o5-own-all.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "kietvo2207/rsna-tk-own-weights-v2"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}

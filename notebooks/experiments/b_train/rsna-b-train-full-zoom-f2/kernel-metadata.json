@@ -1,0 +1,31 @@
+{
+  "id": "nguynxunphc662/rsna-b-train-full-zoom-f2",
+  "title": "rsna-b-train-full-zoom-f2",
+  "code_file": "rsna-b-train-full-zoom-f2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "nguynxunphc662/rsna-b-kit-v5"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": [
+    "nguynxunphc662/rsna-b-px256-s00",
+    "nguynxunphc662/rsna-b-px256-s01",
+    "nguynxunphc662/rsna-b-px256-s02",
+    "nguynxunphc662/rsna-b-px256-s03",
+    "nguynxunphc662/rsna-b-px256-s04",
+    "nguynxunphc662/rsna-b-px256-s05",
+    "nguynxunphc662/rsna-b-px256-s06",
+    "nguynxunphc662/rsna-b-px256-s07",
+    "nguynxunphc662/rsna-b-px256-s08",
+    "nguynxunphc662/rsna-b-px256-s09"
+  ],
+  "model_sources": []
+}

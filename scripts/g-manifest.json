@@ -1,0 +1,42 @@
+[
+  {
+    "tag": "G1",
+    "owner": "bloctuat",
+    "slug": "rsna-g1-s6fall-no-r7flip",
+    "folder": "C:\\Users\\Phuc Nguyen\\Desktop\\RSNA\\kaggle_push\\rsna-g1-s6fall-no-r7flip",
+    "kernel": "bloctuat/rsna-g1-s6fall-no-r7flip",
+    "description": "Disable R7 flip only; preserve direct blend and S6fall share 1/3.",
+    "bytes": 886100,
+    "sha256": "9acb1cdcdbb2d2a2c1426c4b11b81c3fff88c6680cc401caf6dfdaa40ece2231"
+  },
+  {
+    "tag": "G2",
+    "owner": "bloctuat",
+    "slug": "rsna-g2-s6fall-rerank-base",
+    "folder": "C:\\Users\\Phuc Nguyen\\Desktop\\RSNA\\kaggle_push\\rsna-g2-s6fall-rerank-base",
+    "kernel": "bloctuat/rsna-g2-s6fall-rerank-base",
+    "description": "Rank the base ensemble before S6fall blending; preserve R7 flip.",
+    "bytes": 886149,
+    "sha256": "b6a0194072e07404d1e0cdae6eec023134af65ec43c2daf2848f1607e48e6dac"
+  },
+  {
+    "tag": "G3",
+    "owner": "phatdennibba",
+    "slug": "rsna-g3-s6fall-no-r224",
+    "folder": "C:\\Users\\Phuc Nguyen\\Desktop\\RSNA\\kaggle_push\\rsna-g3-s6fall-no-r224",
+    "kernel": "phatdennibba/rsna-g3-s6fall-no-r224",
+    "description": "Disable Raptor224 only; retain Raptor384, R7 flip and S6fall share 1/3.",
+    "bytes": 886106,
+    "sha256": "2c36cda2560059dcfa026b0fa1fd99cec894688761377cf7eab3872aa8ebbb54"
+  },
+  {
+    "tag": "G4",
+    "owner": "phatdennibba",
+    "slug": "rsna-g4-r7-s6fall-half",
+    "folder": "C:\\Users\\Phuc Nguyen\\Desktop\\RSNA\\kaggle_push\\rsna-g4-r7-s6fall-half",
+    "kernel": "phatdennibba/rsna-g4-r7-s6fall-half",
+    "description": "Run R7 with flip and S6fall at equal shares; skip both Raptor checkpoints.",
+    "bytes": 886084,
+    "sha256": "28507125fbd1eaf4774ff7c9ca7c1ee0d94759897af1eea707d4f146ba9f5b43"
+  }
+]

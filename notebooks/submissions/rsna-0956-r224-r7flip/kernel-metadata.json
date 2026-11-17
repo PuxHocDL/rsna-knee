@@ -1,0 +1,30 @@
+{
+    "machine_shape":  "NvidiaTeslaT4",
+    "enable_internet":  false,
+    "id":  "phatdennibba/rsna-0956-r224-r7flip",
+    "title":  "RSNA 0956 R224 R7flip",
+    "kernel_sources":  [
+
+                       ],
+    "kernel_type":  "notebook",
+    "keywords":  [
+
+                 ],
+    "is_private":  true,
+    "dataset_sources":  [
+                            "nartaa/rsna-knee-publication-swa-weights-20261007",
+                            "heliosli/rsna-knee-compact-r7cnxfsss",
+                            "heliosli/rsna-orthofoundation-fold0-epoch7-20261004"
+                        ],
+    "language":  "python",
+    "competition_sources":  [
+                                "rsna-knee-abnormality-detection"
+                            ],
+    "docker_image":  "gcr.io/kaggle-private-byod/python@sha256:2757e0c7d1e0a9cb43da657b97e223c321a98f5014bdf64f44f2f6b083ad2b2f",
+    "enable_gpu":  true,
+    "enable_tpu":  false,
+    "code_file":  "rsna-0956-r224-r7flip.ipynb",
+    "model_sources":  [
+
+                      ]
+}

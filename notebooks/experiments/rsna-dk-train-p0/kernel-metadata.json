@@ -1,0 +1,21 @@
+{
+  "id": "kietvo2207/rsna-dk-train-p0",
+  "title": "rsna-dk-train-p0",
+  "code_file": "rsna-dk-train-p0.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "dkim54/rsna-knee-models-v11i",
+    "kietvo2207/rsna-ref450-eval"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}
